@@ -16,7 +16,7 @@ class Trainer():
 
     def set_pipeline(self):
         """defines the pipeline as a class attribute"""
-         dist_pipe = Pipeline([
+        dist_pipe = Pipeline([
             ('dist_trans', DistanceTransformer()),
             ('stdscaler', StandardScaler())
         ])
