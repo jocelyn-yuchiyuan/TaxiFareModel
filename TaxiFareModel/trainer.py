@@ -5,6 +5,8 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from memoized_property import memoized_property
 class Trainer():
+    MLFLOW_URI = "https://mlflow.lewagon.co/"
+    EXPERIMENT_NAME = "[tokyo] [jocelyn-yuchiyuan] [taxifare]+ 1"
     def __init__(self, X, y):
         """
             X: pandas DataFrame

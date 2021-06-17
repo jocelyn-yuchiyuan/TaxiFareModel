@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jocelyn/code/jocelyn-yuchiyuan/TaxiFareModel/mlruns/1/9f9be44be25c46ba9ef2bc5b8c9bce44/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 9f9be44be25c46ba9ef2bc5b8c9bce44
+run_uuid: 9f9be44be25c46ba9ef2bc5b8c9bce44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623931901826
+status: 1
+tags: []
+user_id: unknown
